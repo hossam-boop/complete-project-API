@@ -1,0 +1,219 @@
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\API01.exe
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\API01.deps.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\API01.runtimeconfig.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\API01.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\API01.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Core.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\bin\Debug\net6.0\Core.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\API01.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\API01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\API01.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\API01.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\API01.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\API01.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\API01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.API01.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.build.API01.props
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API01.props
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API01.props
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\scopedcss\bundle\API01.styles.css
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\API01.csproj.CopyComplete
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\API01.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\refint\API01.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\API01.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\API01.genruntimeconfig.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\API01\obj\Debug\net6.0\ref\API01.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\appsettings.Development.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\appsettings.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\API01.exe
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\API01.deps.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\API01.runtimeconfig.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\API01.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\API01.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Humanizer.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Core.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Infrastructure.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Infrastructure.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\bin\Debug\net6.0\Core.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\API01.csproj.AssemblyReference.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\API01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\API01.AssemblyInfoInputs.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\API01.AssemblyInfo.cs
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\API01.csproj.CoreCompileInputs.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\API01.MvcApplicationPartsAssemblyInfo.cs
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\API01.MvcApplicationPartsAssemblyInfo.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.API01.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.build.API01.props
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API01.props
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API01.props
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\staticwebassets.build.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\staticwebassets.development.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\scopedcss\bundle\API01.styles.css
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\API01.csproj.CopyComplete
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\API01.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\refint\API01.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\API01.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\API01.genruntimeconfig.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\API01\obj\Debug\net6.0\ref\API01.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\appsettings.Development.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\appsettings.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\API01.exe
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\API01.deps.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\API01.runtimeconfig.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\API01.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\API01.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Humanizer.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Core.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Infrastructure.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Infrastructure.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\Core.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\API01.csproj.AssemblyReference.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\API01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\API01.AssemblyInfoInputs.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\API01.AssemblyInfo.cs
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\API01.csproj.CoreCompileInputs.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\API01.MvcApplicationPartsAssemblyInfo.cs
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\API01.MvcApplicationPartsAssemblyInfo.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.API01.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.build.API01.props
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API01.props
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API01.props
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\staticwebassets.build.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\staticwebassets.development.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\scopedcss\bundle\API01.styles.css
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\API01.csproj.CopyComplete
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\API01.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\refint\API01.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\API01.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\API01.genruntimeconfig.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\obj\Debug\net6.0\ref\API01.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\AutoMapper.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\API01\bin\Debug\net6.0\API01.staticwebassets.runtime.json

@@ -1,0 +1,45 @@
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\hp\OneDrive - Faculty of Computers and Information\Desktop\API 1\API01\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\bin\Debug\net6.0\Core.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\bin\Debug\net6.0\Core.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\Test1\API01\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\bin\Debug\net6.0\Core.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\bin\Debug\net6.0\Core.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+F:\Hossam\wed\Back End\C#\08 ASP Core API\API\API01\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
